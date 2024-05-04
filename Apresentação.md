@@ -11,8 +11,9 @@ Após pesquisar e responder a essas perguntas, senti que estava pronto para avan
 
 Feito isso, chegamos praticamente à parte final do projeto, que era realizar a documentação do meu banco. A documentação é um arquivo que conterá tudo sobre o software, que no meu caso, era o banco `mercado`. Mais um processo simples, porém, o requisito de atenção e cuidado foram redobrado.
 
+
 Tudo sobre o projeto você encontra nos seguintes links
-1. [[Decisão sobre o projeto]]
+1. [[./Decisão sobre o projeto]]
 2. [[Documentação]]
 3. [[Código-Fonte do Banco de Dados]]
 4. [[Diagrama visual.jpeg]]
