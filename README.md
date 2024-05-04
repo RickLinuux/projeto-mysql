@@ -19,3 +19,10 @@ O projeto deve ser apresentado de acordo com os conhecimentos adquiridos nas aul
 ## Sobre o Projeto
 
 Com base nas informações disponibilizadas, tomei a iniciativa de realizar este projeto. Você pode acompanhar o progresso nas seções subsequentes.
+
+
+### Próximas atualizações
+Modelo Relacional
+Criações de Views
+Consultas mais avançadas 
+Tratamento da linha de comando. 
