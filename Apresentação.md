@@ -1,6 +1,3 @@
-![[Pasted image 20240425000117.png]]
-
-
 Olá, me chamo Henrique e estou dando meus primeiros passos em `MySQL`. Atualmente, estou no processo de aprendizagem e tive um desafio proposto pelo meu tutor no curso de tecnologia, especificamente na unidade de banco de dados.
 
 O desafio consistia em criar um banco de dados com temática livre, ou seja, o banco poderia ser voltado para qualquer área. Isso desperta o lado criativo do estudante. Para esse desafio, escolhi atuar na área de comércio, onde decidi criar um banco de dados voltado para o mercado. Assim, comecei a realizar pesquisas sobre o assunto, explorando as diversas vertentes que um mercado possui em seu ambiente.
@@ -13,9 +10,8 @@ Feito isso, chegamos praticamente à parte final do projeto, que era realizar a 
 
 
 Tudo sobre o projeto você encontra nos seguintes links
-1. [[./Decisão sobre o projeto]]
-2. [[Documentação]]
-3. [[Código-Fonte do Banco de Dados]]
-4. [[Diagrama visual.jpeg]]
-5. [[Consultas no banco de dados mercado]]
-6. [[Referências]]
+  1. Decisão sobre o projeto
+  2. Documentação
+  3. Código-Fonte do Banco de Dados
+  5. Consultas no banco de dados mercado
+  6. Referências
