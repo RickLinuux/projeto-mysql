@@ -3,7 +3,8 @@
 ```sql
 SHOW TABLES;
 ```
-![[Pasted image 20240424230501.png]]
+![Pasted image 20240424230501](https://github.com/RickLinuux/projeto-mysql/assets/156127952/1a6698e9-8177-4fdf-aec4-aa50b89cce5f)
+
 
 ###### 2- Mostrando todos os dados da tabela produtos
 ```sql
