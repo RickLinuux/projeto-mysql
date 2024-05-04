@@ -19,8 +19,8 @@ Esta seção diz respeito sobre os códigos fazendo uma explicativa dos campos e
 
 #comandos
 ```sql
-# Cria um banco chamado 'mercado' com o conjuto de caracteres padrão UTF8
-create database mercado default character set UTF8;
+# Cria um banco chamado 'mercado' 
+create database mercado;
 ```
 
 Essa primeira linha uma vez executada, criará meu banco de dados com os padrões `utf8`, isto é, esse banco terá a capacidade de suportar tipologias portuguesa-brasileira, como por exemplo, o `ç`  e acentuações.
